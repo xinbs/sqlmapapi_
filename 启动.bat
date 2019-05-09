@@ -1,0 +1,1 @@
+python sqlmapapi_check.py url.txt
