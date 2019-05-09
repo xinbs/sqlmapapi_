@@ -8,3 +8,7 @@ sqlmapapi批量注入检测
 `python sqlmapapi_check.py url.txt`
 
 存在sql注入的url存储在 injection.txt
+
+## 环境
+版本 python2
+库 requests
